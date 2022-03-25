@@ -47,6 +47,7 @@ rakeshAccount.deposit(500);
 rakeshAccount.withdraw(100);
 rakeshAccount.takePersonalLoan(40000);
 console.log(rakeshAccount);
+
 // function BankAccount(customerName, balance = 0) {
 //     this.customerName = customerName;
 //     this.accountNumber = Date.now();
